@@ -14,7 +14,7 @@ Downloading and linking files
 3.  You will now see a list of all the files and folders in your OneDrive.
 4.  Click the file you want to download into Moodle.
 5.  Choose to "Make a copy of the file", or "Create an alias/shortcut to the file."
-    1.  If you want to download a copy of the file as it is now, choose "Make a cope of the file". This will copy the file into Moodle, and will then use the local Moodle copy when the file is accessed from within Moodle. Any changes to the file in OneDrive will not be seen in Moodle.
+    1.  If you want to download a copy of the file as it is now, choose "Make a copy of the file". This will copy the file into Moodle, and will then use the local Moodle copy when the file is accessed from within Moodle. Any changes to the file in OneDrive will not be seen in Moodle.
     2.  If you want to link a file choose "Create an alias/shortcut to the file". This will create a link in Moodle to the file in OneDrive, and the file will be accessed from OneDrive directly. Any changes to the file in OneDrive will be seen when accessing the file from Moodle.
 
 6.  You can change other file information like the filename or author name using the respective text fields. This information is only applicable to the Moodle side of the file, and will not transfer to OneDrive.
